@@ -1,0 +1,22 @@
+14
+20
+Istanbul Kocaeli
+Ankara Antalya
+Izmir Istanbul
+Erzurum Adana
+Sivas Trabzon
+Siirt Trabzon
+Istanbul Siirt
+Trabzon Istanbul
+Çanakkale Aydın
+Tekirdağ Istanbul
+Adana Aydın
+Ankara Çanakkale
+Istanbul Ankara
+Rize Sivas
+Aydın Erzurum
+Izmir Sivas
+Sivas Ankara
+Antalya Kocaeli
+Yalova Istanbul
+Yalova Aydın
