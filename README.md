@@ -1,6 +1,7 @@
 # Project-3.3
-
-A) Password checker. Write a program that reads in a string password from the command line and checks whether the password is a "good" one.
+___________________________________________________________________________________________________________________________________________
+.**************A) Password checker.**************
+Write a program that reads in a string password from the command line and checks whether the password is a "good" one.
 Your program must also read a dictionary of words from a file (see words.txt) and mostly used password dictionary from a second file.
 A "good" password means that it  
 
@@ -10,8 +11,8 @@ A "good" password means that it
 
 •	Your searches must be performed in constant time, regardless of dictionary sizes. I.e. O(1)  complexity. 
 
-
-B) COMP2102 Social Graph Network
+___________________________________________________________________________________________________________________________________________
+.**************B) City Graph Network.**************
 
 In this project you will model the distances between cities of a country. 
 Our weighted graph will represent this by edge-weights equal to the number of co-occurences. 
